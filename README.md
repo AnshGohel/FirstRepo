@@ -1,4 +1,3 @@
 # FirstRepo
-my first repo by macher ali khan <br>
-macher == Ansh <br>
-vatsal bsdk
+i updated something new to index.html
+check it out man!!
